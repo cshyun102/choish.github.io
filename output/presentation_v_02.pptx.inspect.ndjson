@@ -1,0 +1,656 @@
+{"kind":"deck","id":"pr/b3q7xn","name":"Deck"}
+{"kind":"layout","layoutId":"73499e95-fe5d-4f10-b82a-4f01f3be0e97","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"0f7484c7-cc0b-43e6-8d1f-8fc1eedebe12","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/sfrkcr","slide":1,"title":"PALANTIR × SEMICONDUCTOR AI","textShapes":6}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":1,"bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":1,"text":"PALANTIR × SEMICONDUCTOR AI","textPreview":"PALANTIR × SEMICONDUCTOR AI","textChars":27,"textLines":1,"bbox":[76,72,640,26]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":1,"text":"Ontology는 AI 분석을\n조직의 판단 체계로 전환한다","textPreview":"Ontology는 AI 분석을 | 조직의 판단 체계로 전환한다","textChars":32,"textLines":2,"bbox":[76,154,1000,150]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":1,"text":"검사·계측 결과를 Evidence · Feedback · Decision · Action으로 닫는 운영 설계","textPreview":"검사·계측 결과를 Evidence · Feedback · Decision · Action으로 닫는 운영 설계","textChars":60,"textLines":1,"bbox":[80,336,980,48]}
+{"kind":"shape","id":"sh/je9cvixc","slide":1,"bbox":[80,424,180,4]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":1,"text":"내부 기술 발표  |  2026.06","textPreview":"내부 기술 발표  |  2026.06","textChars":20,"textLines":1,"bbox":[80,458,400,30]}
+{"kind":"shape","id":"sh/1gvy90je","slide":1,"bbox":[850,470,300,120]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":1,"text":"핵심 질문","textPreview":"핵심 질문","textChars":5,"textLines":1,"bbox":[874,486,250,28]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":1,"text":"모델 결과가 조직의\n판단과 학습으로 남는가?","textPreview":"모델 결과가 조직의 | 판단과 학습으로 남는가?","textChars":24,"textLines":2,"bbox":[874,520,250,58]}
+{"kind":"notes","id":"nt/sfrkcr","slide":1,"text":""}
+{"kind":"slide","id":"sl/zhqfnt","slide":2,"title":"WHY","textShapes":16}
+{"kind":"textbox","id":"sh/byhgn29g","slide":2,"text":"WHY","textPreview":"WHY","textChars":3,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":2,"text":"검사·계측 AI의 병목은 데이터 부족보다 판단 맥락의 단절에 있다","textPreview":"검사·계측 AI의 병목은 데이터 부족보다 판단 맥락의 단절에 있다","textChars":36,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/t47y1kre","slide":2,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"bbox":[72,210,245,180]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":2,"text":"데이터","textPreview":"데이터","textChars":3,"textLines":1,"bbox":[92,232,205,30]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"text":"Inspection · SAT\nSEM · 공정 이력","textPreview":"Inspection · SAT | SEM · 공정 이력","textChars":28,"textLines":2,"bbox":[92,284,205,70]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[319,280,40,40]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":2,"bbox":[359,210,245,180]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":2,"text":"모델","textPreview":"모델","textChars":2,"textLines":1,"bbox":[379,232,205,30]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"text":"Score · Label\nCluster · Prediction","textPreview":"Score · Label | Cluster · Prediction","textChars":34,"textLines":2,"bbox":[379,284,205,70]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[606,280,40,40]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":2,"bbox":[646,210,245,180]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":2,"text":"판단 공백","textPreview":"판단 공백","textChars":5,"textLines":1,"bbox":[666,232,205,30]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":2,"text":"누가 검토했는가?\n무엇을 근거로 했는가?","textPreview":"누가 검토했는가? | 무엇을 근거로 했는가?","textChars":22,"textLines":2,"bbox":[666,284,205,70]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[893,280,40,40]}
+{"kind":"shape","id":"sh/g7adsji5","slide":2,"bbox":[933,210,245,180]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":2,"text":"운영","textPreview":"운영","textChars":2,"textLines":1,"bbox":[953,232,205,30]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":2,"text":"Feedback · Decision\nAction · Learning","textPreview":"Feedback · Decision | Action · Learning","textChars":37,"textLines":2,"bbox":[953,284,205,70]}
+{"kind":"textbox","id":"sh/61032lsz","slide":2,"text":"데이터와 예측은 존재하지만, 근거·책임·상태·종료 사유가 하나의 case로 남지 않는다.","textPreview":"데이터와 예측은 존재하지만, 근거·책임·상태·종료 사유가 하나의 case로 남지 않는다.","textChars":49,"textLines":1,"bbox":[170,444,940,54]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":2,"text":"근거: original_text.txt §5.1~5.3; 새 PDF pp.8~9","textPreview":"근거: original_text.txt §5.1~5.3; 새 PDF pp.8~9","textChars":44,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/zhqfnt","slide":2,"text":""}
+{"kind":"slide","id":"sl/4pesfp","slide":3,"title":"WHY","textShapes":14}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":3,"text":"WHY","textPreview":"WHY","textChars":3,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":3,"text":"운영 성과는 모델 출력이 아니라 판단 루프가 닫힐 때 발생한다","textPreview":"운영 성과는 모델 출력이 아니라 판단 루프가 닫힐 때 발생한다","textChars":34,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":3,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/87ed8bat","slide":3,"bbox":[72,200,430,330]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":3,"bbox":[72,200,6,330]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"text":"모델 중심","textPreview":"모델 중심","textChars":5,"textLines":1,"bbox":[94,218,390,34]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":3,"text":"입력 → 추론 → score / label\n\n• 결과는 dashboard에 표시\n• 검토 책임과 후속 조치는 외부\n• feedback이 학습 데이터로 돌아오지 않음","textPreview":"입력 → 추론 → score / label |  | • 결과는 dashboard에 표시 | • 검토 책임과 후속 조치는 외부 | • feedback이 학습 데이터로 돌아오지 않음","textChars":91,"textLines":5,"bbox":[94,262,390,254]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[520,328,55,50]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":3,"bbox":[588,190,620,350]}
+{"kind":"shape","id":"sh/bat47y1k","slide":3,"bbox":[620,226,155,72]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":3,"text":"Case open","textPreview":"Case open","textChars":9,"textLines":1,"bbox":[628,226,139,72]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":3,"bbox":[805,226,155,72]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":3,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[813,226,139,72]}
+{"kind":"shape","id":"sh/bm58z25k","slide":3,"bbox":[990,226,155,72]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":3,"text":"Feedback","textPreview":"Feedback","textChars":8,"textLines":1,"bbox":[998,226,139,72]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":3,"bbox":[620,366,155,72]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":3,"text":"Decision","textPreview":"Decision","textChars":8,"textLines":1,"bbox":[628,366,139,72]}
+{"kind":"shape","id":"sh/bq1oryts","slide":3,"bbox":[805,366,155,72]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":3,"text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[813,366,139,72]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":3,"bbox":[990,366,155,72]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":3,"text":"Learning","textPreview":"Learning","textChars":8,"textLines":1,"bbox":[998,366,139,72]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":3,"text":"운영 루프","textPreview":"운영 루프","textChars":5,"textLines":1,"bbox":[785,374,220,30]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":3,"text":"근거: original_text.txt Executive Summary, §5.3, §8","textPreview":"근거: original_text.txt Executive Summary, §5.3, §8","textChars":49,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/4pesfp","slide":3,"text":""}
+{"kind":"slide","id":"sl/9riar3","slide":4,"title":"CONCEPT","textShapes":19}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":4,"text":"‘존재의 분류’에서 ‘업무의 실행’까지 Ontology의 범위가 확장된다","textPreview":"‘존재의 분류’에서 ‘업무의 실행’까지 Ontology의 범위가 확장된다","textChars":40,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":4,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/8bat47y1","slide":4,"bbox":[90,220,285,250]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":4,"bbox":[110,240,42,34]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[118,240,26,34]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"존재론","textPreview":"존재론","textChars":3,"textLines":1,"bbox":[110,292,245,34]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"text":"무엇이 존재하며\n어떤 범주에 속하는가","textPreview":"무엇이 존재하며 | 어떤 범주에 속하는가","textChars":20,"textLines":2,"bbox":[110,340,245,60]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":4,"text":"분류","textPreview":"분류","textChars":2,"textLines":1,"bbox":[110,420,245,28]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[380,324,40,40]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":4,"bbox":[415,220,285,250]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":4,"bbox":[435,240,42,34]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[443,240,26,34]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":4,"text":"정보학 온톨로지","textPreview":"정보학 온톨로지","textChars":8,"textLines":1,"bbox":[435,292,245,34]}
+{"kind":"textbox","id":"sh/svu9knih","slide":4,"text":"개념·속성·관계를\n어떻게 명시하는가","textPreview":"개념·속성·관계를 | 어떻게 명시하는가","textChars":19,"textLines":2,"bbox":[435,340,245,60]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":4,"text":"의미 + 관계","textPreview":"의미 + 관계","textChars":7,"textLines":1,"bbox":[435,420,245,28]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":4,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[705,324,40,40]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":4,"bbox":[740,220,285,250]}
+{"kind":"shape","id":"sh/vu9knih4","slide":4,"bbox":[760,240,42,34]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[768,240,26,34]}
+{"kind":"textbox","id":"sh/d0z61032","slide":4,"text":"Palantir식 Ontology","textPreview":"Palantir식 Ontology","textChars":18,"textLines":1,"bbox":[760,292,245,34]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":4,"text":"누가 무엇을 판단하고\n어떤 action을 수행하는가","textPreview":"누가 무엇을 판단하고 | 어떤 action을 수행하는가","textChars":28,"textLines":2,"bbox":[760,340,245,60]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":4,"text":"의미 + 실행 + 권한","textPreview":"의미 + 실행 + 권한","textChars":12,"textLines":1,"bbox":[760,420,245,28]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":4,"text":"Palantir식 Ontology는 철학을 대체하지 않는다. 기업 운영에 필요한 action과 governance를 추가한다.","textPreview":"Palantir식 Ontology는 철학을 대체하지 않는다. 기업 운영에 필요한 action과 governance를 추가한다.","textChars":70,"textLines":1,"bbox":[140,518,1000,46]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":4,"text":"근거: 새 PDF pp.3~6; Gruber·W3C OWL·Palantir 공식 문서(소스 수록)","textPreview":"근거: 새 PDF pp.3~6; Gruber·W3C OWL·Palantir 공식 문서(소스 수록)","textChars":54,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/9riar3","slide":4,"text":""}
+{"kind":"slide","id":"sl/j21wo3","slide":5,"title":"CONCEPT","textShapes":15}
+{"kind":"textbox","id":"sh/47y1kre1","slide":5,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":5,"text":"존재론은 ‘무엇이 있는가’보다 ‘무엇을 같은 것으로 볼 것인가’를 정한다","textPreview":"존재론은 ‘무엇이 있는가’보다 ‘무엇을 같은 것으로 볼 것인가’를 정한다","textChars":40,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":5,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":5,"text":"존재론(ontology)은 세계에 어떤 종류의 존재자가 있으며, 그것을 어떤 범주와 관계로 설명할지를 묻는 철학적 탐구다.","textPreview":"존재론(ontology)은 세계에 어떤 종류의 존재자가 있으며, 그것을 어떤 범주와 관계로 설명할지를 묻는 철학적 탐구다.","textChars":68,"textLines":1,"bbox":[72,182,1136,42]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":5,"text":"범주 Category","textPreview":"범주 Category","textChars":11,"textLines":1,"bbox":[88,244,220,54]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":5,"text":"정의: 공통 본질이나 기준으로 묶은 대상의 종류  |  사례: Wafer, Lot, Defect, Process Step","textPreview":"정의: 공통 본질이나 기준으로 묶은 대상의 종류  |  사례: Wafer, Lot, Defect, Process Step","textChars":67,"textLines":1,"bbox":[320,244,850,54]}
+{"kind":"shape","id":"sh/t83itgfm","slide":5,"bbox":[88,302,1082,1]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":5,"text":"개체 Entity","textPreview":"개체 Entity","textChars":9,"textLines":1,"bbox":[88,312,220,54]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":5,"text":"정의: 범주에 속하며 식별 가능한 구체적 대상  |  사례: wafer ID ‘W12345’","textPreview":"정의: 범주에 속하며 식별 가능한 구체적 대상  |  사례: wafer ID ‘W12345’","textChars":51,"textLines":1,"bbox":[320,312,850,54]}
+{"kind":"shape","id":"sh/judg7ads","slide":5,"bbox":[88,370,1082,1]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"text":"속성 Property","textPreview":"속성 Property","textChars":11,"textLines":1,"bbox":[88,380,220,54]}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"text":"정의: 개체의 상태·특징을 기술하는 값  |  사례: product, layer, 좌표, 측정값, status","textPreview":"정의: 개체의 상태·특징을 기술하는 값  |  사례: product, layer, 좌표, 측정값, status","textChars":61,"textLines":1,"bbox":[320,380,850,54]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":5,"bbox":[88,438,1082,1]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":5,"text":"관계 Relation","textPreview":"관계 Relation","textChars":11,"textLines":1,"bbox":[88,448,220,54]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":5,"text":"정의: 개체와 개체 사이의 의미 있는 연결  |  사례: belongs_to, processed_by, detected_in","textPreview":"정의: 개체와 개체 사이의 의미 있는 연결  |  사례: belongs_to, processed_by, detected_in","textChars":69,"textLines":1,"bbox":[320,448,850,54]}
+{"kind":"shape","id":"sh/1orytsvu","slide":5,"bbox":[88,506,1082,1]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":5,"text":"동일성 Identity","textPreview":"동일성 Identity","textChars":12,"textLines":1,"bbox":[88,516,220,54]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":5,"text":"정의: 시간·시스템·관점이 달라도 같은 대상을 판별하는 기준  |  사례: 공정·검사·수율의 wafer key 정합","textPreview":"정의: 시간·시스템·관점이 달라도 같은 대상을 판별하는 기준  |  사례: 공정·검사·수율의 wafer key 정합","textChars":64,"textLines":1,"bbox":[320,516,850,54]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":5,"bbox":[88,574,1082,1]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":5,"text":"근거: 새 PDF pp.3~4; Gruber·Guarino·W3C OWL(소스 수록)","textPreview":"근거: 새 PDF pp.3~4; Gruber·Guarino·W3C OWL(소스 수록)","textChars":47,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/j21wo3","slide":5,"text":""}
+{"kind":"slide","id":"sl/1tnbrh","slide":6,"title":"CONCEPT","textShapes":15}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":6,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":6,"text":"정보학 온톨로지는 철학적 질문을 기계가 읽을 수 있는 의미 규약으로 바꾼다","textPreview":"정보학 온톨로지는 철학적 질문을 기계가 읽을 수 있는 의미 규약으로 바꾼다","textChars":41,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/t83itgfm","slide":6,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":6,"text":"정보 시스템에서는 존재론의 질문을 개념 정의, 속성, 관계, 제약, 분류 규칙으로 명시한다. 스키마가 저장 형태를 정한다면, 온톨로지는 그 값이 무엇을 의미하고 어떤 추론이 허용되는지를 정한다.","textPreview":"정보 시스템에서는 존재론의 질문을 개념 정의, 속성, 관계, 제약, 분류 규칙으로 명시한다. 스키마가 저장 형태를 정한다면, 온톨로지는 그 값이 무엇을 의미하고 어떤 추론이 허용되는지를 정한다.","textChars":108,"textLines":1,"bbox":[72,180,1136,76]}
+{"kind":"shape","id":"sh/4byhgn29","slide":6,"bbox":[72,292,340,224]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":6,"text":"스키마","textPreview":"스키마","textChars":3,"textLines":1,"bbox":[94,314,296,34]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"text":"테이블·컬럼·자료형\n저장과 검증의 구조","textPreview":"테이블·컬럼·자료형 | 저장과 검증의 구조","textChars":21,"textLines":2,"bbox":[94,370,296,66]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":6,"text":"“어디에 저장되는가?”","textPreview":"“어디에 저장되는가?”","textChars":12,"textLines":1,"bbox":[94,458,296,34]}
+{"kind":"shape","id":"sh/val87ed8","slide":6,"bbox":[450,292,340,224]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":6,"text":"택소노미","textPreview":"택소노미","textChars":4,"textLines":1,"bbox":[472,314,296,34]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":6,"text":"상·하위 분류 체계\n용어의 계층화","textPreview":"상·하위 분류 체계 | 용어의 계층화","textChars":18,"textLines":2,"bbox":[472,370,296,66]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":6,"text":"“어떤 종류에 속하는가?”","textPreview":"“어떤 종류에 속하는가?”","textChars":14,"textLines":1,"bbox":[472,458,296,34]}
+{"kind":"shape","id":"sh/vixczed8","slide":6,"bbox":[828,292,340,224]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":6,"text":"온톨로지","textPreview":"온톨로지","textChars":4,"textLines":1,"bbox":[850,314,296,34]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":6,"text":"개념·속성·관계·제약\n공유 의미와 추론","textPreview":"개념·속성·관계·제약 | 공유 의미와 추론","textChars":21,"textLines":2,"bbox":[850,370,296,66]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":6,"text":"“무엇을 뜻하며 어떻게 연결되는가?”","textPreview":"“무엇을 뜻하며 어떻게 연결되는가?”","textChars":20,"textLines":1,"bbox":[850,458,296,34]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":6,"text":"반도체 적용: ‘Defect’가 물리 결함인지, 장비 signal인지, AI 분류 결과인지 구분해야 데이터와 판단이 연결된다.","textPreview":"반도체 적용: ‘Defect’가 물리 결함인지, 장비 signal인지, AI 분류 결과인지 구분해야 데이터와 판단이 연결된다.","textChars":70,"textLines":1,"bbox":[126,548,1028,48]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":6,"text":"근거: original_text.txt §2.1~2.2; 새 PDF pp.3~4","textPreview":"근거: original_text.txt §2.1~2.2; 새 PDF pp.3~4","textChars":44,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/1tnbrh","slide":6,"text":""}
+{"kind":"slide","id":"sl/4225bs","slide":7,"title":"CONCEPT","textShapes":12}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":7,"text":"의미장 이론은 대상이 언제나 특정 맥락 안에서 의미를 가진다고 본다","textPreview":"의미장 이론은 대상이 언제나 특정 맥락 안에서 의미를 가진다고 본다","textChars":37,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":7,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":7,"text":"마르쿠스 가브리엘의 의미장(fields of sense) 이론을 발표용으로 단순화하면, 어떤 대상은 하나의 절대적 관점에서만 존재하는 것이 아니라 특정 의미장 안에서 특정 방식으로 나타난다.","textPreview":"마르쿠스 가브리엘의 의미장(fields of sense) 이론을 발표용으로 단순화하면, 어떤 대상은 하나의 절대적 관점에서만 존재하는 것이 아니라 특정 의미장 안에서 특정 방식으로 나타난다.","textChars":106,"textLines":1,"bbox":[72,180,1136,78]}
+{"kind":"shape","id":"sh/xobm58z2","slide":7,"bbox":[72,300,340,230]}
+{"kind":"shape","id":"sh/83itgfml","slide":7,"bbox":[72,300,6,230]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":7,"text":"하나의 ‘세계 전체’보다 복수의 의미장","textPreview":"하나의 ‘세계 전체’보다 복수의 의미장","textChars":21,"textLines":1,"bbox":[94,318,300,34]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":7,"text":"생산, 검사, 품질, AI는 동일 대상을 서로 다른 질문과 관계 속에서 본다.","textPreview":"생산, 검사, 품질, AI는 동일 대상을 서로 다른 질문과 관계 속에서 본다.","textChars":43,"textLines":1,"bbox":[94,362,300,154]}
+{"kind":"shape","id":"sh/oj2t83it","slide":7,"bbox":[450,300,340,230]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":7,"bbox":[450,300,6,230]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":7,"text":"대상은 같아도 드러나는 속성이 다름","textPreview":"대상은 같아도 드러나는 속성이 다름","textChars":19,"textLines":1,"bbox":[472,318,300,34]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":7,"text":"물리적 Wafer는 같지만 공정 이력, defect map, yield, anomaly score가 전면에 나타난다.","textPreview":"물리적 Wafer는 같지만 공정 이력, defect map, yield, anomaly score가 전면에 나타난다.","textChars":65,"textLines":1,"bbox":[472,362,300,154]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":7,"bbox":[828,300,340,230]}
+{"kind":"shape","id":"sh/dsji5sne","slide":7,"bbox":[828,300,6,230]}
+{"kind":"textbox","id":"sh/61032lsz","slide":7,"text":"의미장은 단순한 화면 필터가 아님","textPreview":"의미장은 단순한 화면 필터가 아님","textChars":18,"textLines":1,"bbox":[850,318,300,34]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":7,"text":"무엇을 같은 대상으로 보고 어떤 근거로 판단할지 정하는 조직의 해석 규칙이다.","textPreview":"무엇을 같은 대상으로 보고 어떤 근거로 판단할지 정하는 조직의 해석 규칙이다.","textChars":43,"textLines":1,"bbox":[850,362,300,154]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":7,"text":"주의: 의미장 이론과 Palantir 사이의 직접적 연계를 주장하는 것이 아니라, 조직의 다중 관점을 설명하기 위한 해석 프레임이다.","textPreview":"주의: 의미장 이론과 Palantir 사이의 직접적 연계를 주장하는 것이 아니라, 조직의 다중 관점을 설명하기 위한 해석 프레임이다.","textChars":74,"textLines":1,"bbox":[110,558,1060,44]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":7,"text":"근거: 새 PDF pp.4~5; 의미장 적용은 소스 보고서의 해석","textPreview":"근거: 새 PDF pp.4~5; 의미장 적용은 소스 보고서의 해석","textChars":36,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/4225bs","slide":7,"text":""}
+{"kind":"slide","id":"sl/x0dzjw","slide":8,"title":"CONCEPT","textShapes":15}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":8,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":8,"text":"일상에서도 하나의 대상은 의미장에 따라 전혀 다른 객체처럼 읽힌다","textPreview":"일상에서도 하나의 대상은 의미장에 따라 전혀 다른 객체처럼 읽힌다","textChars":36,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/7adsji5s","slide":8,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":8,"text":"의미장은 전문 용어보다 ‘어떤 질문을 던지는 맥락인가’로 이해하면 쉽다. 동일한 물리적 대상이라도 의미장이 바뀌면 중요한 속성·관계·행동이 달라진다.","textPreview":"의미장은 전문 용어보다 ‘어떤 질문을 던지는 맥락인가’로 이해하면 쉽다. 동일한 물리적 대상이라도 의미장이 바뀌면 중요한 속성·관계·행동이 달라진다.","textChars":83,"textLines":1,"bbox":[72,180,1136,70]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":8,"bbox":[72,286,340,260]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":8,"text":"한 사람","textPreview":"한 사람","textChars":4,"textLines":1,"bbox":[94,306,296,34]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":8,"text":"가족: 부모·자녀·돌봄 관계\n의료: 환자·진단·치료 이력\n법률: 권리·의무·계약 당사자","textPreview":"가족: 부모·자녀·돌봄 관계 | 의료: 환자·진단·치료 이력 | 법률: 권리·의무·계약 당사자","textChars":48,"textLines":3,"bbox":[94,362,296,112]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":8,"text":"같은 사람, 다른 관계와 판단 기준","textPreview":"같은 사람, 다른 관계와 판단 기준","textChars":19,"textLines":1,"bbox":[94,494,296,30]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":8,"bbox":[450,286,340,260]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":8,"text":"한 권의 책","textPreview":"한 권의 책","textChars":6,"textLines":1,"bbox":[472,306,296,34]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":8,"text":"도서관: 분류·대출·소장 위치\n시장: 상품·가격·재고\n수업: 교재·학습 목표·과제","textPreview":"도서관: 분류·대출·소장 위치 | 시장: 상품·가격·재고 | 수업: 교재·학습 목표·과제","textChars":45,"textLines":3,"bbox":[472,362,296,112]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":8,"text":"같은 책, 다른 속성과 action","textPreview":"같은 책, 다른 속성과 action","textChars":19,"textLines":1,"bbox":[472,494,296,30]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":8,"bbox":[828,286,340,260]}
+{"kind":"textbox","id":"sh/obm58z25","slide":8,"text":"한 건물","textPreview":"한 건물","textChars":4,"textLines":1,"bbox":[850,306,296,34]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":8,"text":"부동산: 자산·임대·가치\n도시계획: 용도·밀도·교통\n안전: 구조·피난·점검","textPreview":"부동산: 자산·임대·가치 | 도시계획: 용도·밀도·교통 | 안전: 구조·피난·점검","textChars":41,"textLines":3,"bbox":[850,362,296,112]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":8,"text":"같은 건물, 다른 위험과 책임","textPreview":"같은 건물, 다른 위험과 책임","textChars":16,"textLines":1,"bbox":[850,494,296,30]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":8,"text":"회사 Ontology의 과제는 의미장을 없애는 것이 아니라, 서로 다른 의미장이 같은 대상을 어떻게 공유하는지 명시하는 것이다.","textPreview":"회사 Ontology의 과제는 의미장을 없애는 것이 아니라, 서로 다른 의미장이 같은 대상을 어떻게 공유하는지 명시하는 것이다.","textChars":71,"textLines":1,"bbox":[130,580,1020,40]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":8,"text":"의미장 이론의 비반도체 적용 예시: 본 발표의 설명용 사례","textPreview":"의미장 이론의 비반도체 적용 예시: 본 발표의 설명용 사례","textChars":32,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/x0dzjw","slide":8,"text":""}
+{"kind":"slide","id":"sl/80bcfh","slide":9,"title":"CONCEPT","textShapes":16}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":9,"text":"CONCEPT","textPreview":"CONCEPT","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":9,"text":"같은 Wafer도 조직별 의미가 다르므로 공통 판단 좌표가 필요하다","textPreview":"같은 Wafer도 조직별 의미가 다르므로 공통 판단 좌표가 필요하다","textChars":37,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/bm58z25k","slide":9,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":9,"bbox":[492,270,296,120]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":9,"text":"WAFER","textPreview":"WAFER","textChars":5,"textLines":1,"bbox":[492,282,296,50]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":9,"text":"공통 물리 객체","textPreview":"공통 물리 객체","textChars":8,"textLines":1,"bbox":[492,334,296,32]}
+{"kind":"shape","id":"sh/4nap4r65","slide":9,"bbox":[100,205,270,105]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":9,"text":"생산·공정","textPreview":"생산·공정","textChars":5,"textLines":1,"bbox":[118,221,234,28]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":9,"text":"공정 진행 단위","textPreview":"공정 진행 단위","textChars":8,"textLines":1,"bbox":[118,257,234,28]}
+{"kind":"shape","id":"sh/gvy90je9","slide":9,"bbox":[890,205,270,105]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":9,"text":"검사·계측","textPreview":"검사·계측","textChars":5,"textLines":1,"bbox":[908,221,234,28]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":9,"text":"검사 대상","textPreview":"검사 대상","textChars":5,"textLines":1,"bbox":[908,257,234,28]}
+{"kind":"shape","id":"sh/94fu18jq","slide":9,"bbox":[100,420,270,105]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":9,"text":"AI 분석","textPreview":"AI 분석","textChars":5,"textLines":1,"bbox":[118,436,234,28]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":9,"text":"분석 sample","textPreview":"분석 sample","textChars":9,"textLines":1,"bbox":[118,472,234,28]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":9,"bbox":[890,420,270,105]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":9,"text":"품질·수율","textPreview":"품질·수율","textChars":5,"textLines":1,"bbox":[908,436,234,28]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":9,"text":"집계·판단 단위","textPreview":"집계·판단 단위","textChars":8,"textLines":1,"bbox":[908,472,234,28]}
+{"kind":"textbox","id":"sh/0z61032l","slide":9,"text":"의미를 하나로 강제하지 않고\n공통 객체·관계·판단 규칙으로 연결","textPreview":"의미를 하나로 강제하지 않고 | 공통 객체·관계·판단 규칙으로 연결","textChars":35,"textLines":2,"bbox":[438,430,404,74]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":9,"text":"생산은 Equipment·Recipe·Step, 검사는 Inspection·Defect·Image, 수율은 Bin·Yield·Disposition, 품질은 Case·Feedback·Action, AI는 Score·Embedding·Similar Case를 중심으로 Wafer를 읽는다.","textPreview":"생산은 Equipment·Recipe·Step, 검사는 Inspection·Defect·Image, 수율은 Bin·Yield·Disposition, 품질은 Case·Feedback·Action, AI는 Score·Embedding·Similar ...","textChars":159,"textLines":1,"bbox":[100,548,1080,52]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":9,"text":"근거: 새 PDF pp.4~5; ‘의미장’은 발표용 해석 프레임","textPreview":"근거: 새 PDF pp.4~5; ‘의미장’은 발표용 해석 프레임","textChars":35,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/80bcfh","slide":9,"text":""}
+{"kind":"slide","id":"sl/311sdv","slide":10,"title":"DATA FOUNDATION","textShapes":12}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":10,"text":"DATA FOUNDATION","textPreview":"DATA FOUNDATION","textChars":15,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":10,"text":"ETL과 ELT의 차이는 변환 시점이며, 둘 다 의미와 행동을 자동으로 정의하지는 않는다","textPreview":"ETL과 ELT의 차이는 변환 시점이며, 둘 다 의미와 행동을 자동으로 정의하지는 않는다","textChars":49,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":10,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":10,"text":"ETL — Extract → Transform → Load","textPreview":"ETL — Extract → Transform → Load","textChars":32,"textLines":1,"bbox":[72,184,520,36]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":10,"text":"원천 데이터를 추출한 뒤 사전에 정한 규칙으로 정제·통합하고, 목적 시스템에 적재한다. 품질 통제가 명확하고 정형 데이터마트에 적합하지만, 새로운 분석 요구가 생기면 변환 파이프라인을 다시 설계해야 할 수 있다.","textPreview":"원천 데이터를 추출한 뒤 사전에 정한 규칙으로 정제·통합하고, 목적 시스템에 적재한다. 품질 통제가 명확하고 정형 데이터마트에 적합하지만, 새로운 분석 요구가 생기면 변환 파이프라인을 다시 설계해야 할 수 있다.","textChars":118,"textLines":1,"bbox":[72,238,520,128]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":10,"text":"적합한 상황  |  규제가 강한 정형 보고, 안정된 지표, 엄격한 사전 품질 규칙","textPreview":"적합한 상황  |  규제가 강한 정형 보고, 안정된 지표, 엄격한 사전 품질 규칙","textChars":45,"textLines":1,"bbox":[72,390,520,56]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":10,"text":"ELT — Extract → Load → Transform","textPreview":"ELT — Extract → Load → Transform","textChars":32,"textLines":1,"bbox":[662,184,520,36]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":10,"text":"원천 데이터를 먼저 데이터 레이크·웨어하우스에 적재하고, 계산 자원을 활용해 사용 목적에 맞게 변환한다. 원본 보존과 탐색 유연성이 높지만, 의미·품질·권한을 후단에서 체계적으로 관리하지 않으면 혼란이 커질 수 있다.","textPreview":"원천 데이터를 먼저 데이터 레이크·웨어하우스에 적재하고, 계산 자원을 활용해 사용 목적에 맞게 변환한다. 원본 보존과 탐색 유연성이 높지만, 의미·품질·권한을 후단에서 체계적으로 관리하지 않으면 혼란이 커질 수 있다.","textChars":121,"textLines":1,"bbox":[662,238,520,128]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":10,"text":"적합한 상황  |  대규모 이기종 데이터, 탐색 분석, 변화가 잦은 AI feature","textPreview":"적합한 상황  |  대규모 이기종 데이터, 탐색 분석, 변화가 잦은 AI feature","textChars":48,"textLines":1,"bbox":[662,390,520,56]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":10,"bbox":[632,184,2,300]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":10,"bbox":[150,500,980,76]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":10,"text":"Ontology의 역할","textPreview":"Ontology의 역할","textChars":12,"textLines":1,"bbox":[174,516,190,28]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":10,"text":"ETL/ELT가 데이터를 이동·변환한다면, Ontology는 변환된 데이터가 어떤 객체·관계·판단·action을 뜻하는지 정의한다.","textPreview":"ETL/ELT가 데이터를 이동·변환한다면, Ontology는 변환된 데이터가 어떤 객체·관계·판단·action을 뜻하는지 정의한다.","textChars":73,"textLines":1,"bbox":[360,506,738,48]}
+{"kind":"textbox","id":"sh/z61032ls","slide":10,"text":"일반 데이터 아키텍처 설명; Ontology와의 연결은 본 발표의 설계 해석","textPreview":"일반 데이터 아키텍처 설명; Ontology와의 연결은 본 발표의 설계 해석","textChars":42,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/311sdv","slide":10,"text":""}
+{"kind":"slide","id":"sl/nhd3d0","slide":11,"title":"PALANTIR OVERALL","textShapes":15}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":11,"text":"PALANTIR OVERALL","textPreview":"PALANTIR OVERALL","textChars":16,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":11,"text":"Palantir Ontology는 원천 데이터와 업무 애플리케이션 사이의 운영 계층이다","textPreview":"Palantir Ontology는 원천 데이터와 업무 애플리케이션 사이의 운영 계층이다","textChars":48,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/xs72x4na","slide":11,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":11,"text":"전체 구조에서 Ontology는 데이터를 복제하는 단일 DB가 아니라, 여러 backing source 위에 공통 객체·관계·로직·action·권한을 제공하는 semantic and operational layer다.","textPreview":"전체 구조에서 Ontology는 데이터를 복제하는 단일 DB가 아니라, 여러 backing source 위에 공통 객체·관계·로직·action·권한을 제공하는 semantic and operational layer다.","textChars":121,"textLines":1,"bbox":[72,176,1136,72]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":11,"bbox":[72,278,1136,84]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":11,"text":"BACKING DATA","textPreview":"BACKING DATA","textChars":12,"textLines":1,"bbox":[94,290,200,28]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":11,"text":"MES · Inspection DB · SAT/SEM image · Data lake · ERP","textPreview":"MES · Inspection DB · SAT/SEM image · Data lake · ERP","textChars":53,"textLines":1,"bbox":[304,288,560,34]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":11,"text":"원천의 구조와 계보(lineage)를 유지","textPreview":"원천의 구조와 계보(lineage)를 유지","textChars":23,"textLines":1,"bbox":[880,286,304,50]}
+{"kind":"shape","id":"sh/je9cvixc","slide":11,"bbox":[72,382,1136,84]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":11,"text":"ONTOLOGY","textPreview":"ONTOLOGY","textChars":8,"textLines":1,"bbox":[94,394,200,28]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":11,"text":"Object · Property · Link · Function · Action · Permission","textPreview":"Object · Property · Link · Function · Action · Permission","textChars":57,"textLines":1,"bbox":[304,392,560,34]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":11,"text":"업무 언어, 계산, 변경, 권한을 한 모델로 연결","textPreview":"업무 언어, 계산, 변경, 권한을 한 모델로 연결","textChars":27,"textLines":1,"bbox":[880,390,304,50]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":11,"bbox":[72,486,1136,84]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":11,"text":"APPLICATION / AI","textPreview":"APPLICATION / AI","textChars":16,"textLines":1,"bbox":[94,498,200,28]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":11,"text":"Dashboard · Workflow · AIP agent · Case management","textPreview":"Dashboard · Workflow · AIP agent · Case management","textChars":50,"textLines":1,"bbox":[304,496,560,34]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":11,"text":"사용자는 table이 아니라 업무 객체와 허용된 action을 사용","textPreview":"사용자는 table이 아니라 업무 객체와 허용된 action을 사용","textChars":37,"textLines":1,"bbox":[880,494,304,50]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":11,"text":"Security · governance · audit · lineage","textPreview":"Security · governance · audit · lineage","textChars":39,"textLines":1,"bbox":[420,600,440,30]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":11,"text":"근거: 새 PDF pp.6~7; Palantir 공식 Ontology overview·AIP·permissioning 문서(소스 수록)","textPreview":"근거: 새 PDF pp.6~7; Palantir 공식 Ontology overview·AIP·permissioning 문서(소스 수록)","textChars":75,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/nhd3d0","slide":11,"text":""}
+{"kind":"slide","id":"sl/ei8962","slide":12,"title":"MECHANISM","textShapes":20}
+{"kind":"textbox","id":"sh/donyd0z6","slide":12,"text":"MECHANISM","textPreview":"MECHANISM","textChars":9,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":12,"text":"Palantir식 Ontology는 데이터·로직·행동·권한을 하나의 의미 계층에 묶는다","textPreview":"Palantir식 Ontology는 데이터·로직·행동·권한을 하나의 의미 계층에 묶는다","textChars":48,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/vixczed8","slide":12,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/dcbulwva","slide":12,"bbox":[72,226,190,180]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":12,"text":"OBJECT","textPreview":"OBJECT","textChars":6,"textLines":1,"bbox":[84,248,166,28]}
+{"kind":"textbox","id":"sh/val87ed8","slide":12,"text":"Wafer · Case","textPreview":"Wafer · Case","textChars":12,"textLines":1,"bbox":[88,298,158,60]}
+{"kind":"textbox","id":"sh/knih4byh","slide":12,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[262,294,34,40]}
+{"kind":"shape","id":"sh/d8bat47y","slide":12,"bbox":[298,226,190,180]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":12,"text":"LINK","textPreview":"LINK","textChars":4,"textLines":1,"bbox":[310,248,166,28]}
+{"kind":"textbox","id":"sh/0z61032l","slide":12,"text":"detected_in","textPreview":"detected_in","textChars":11,"textLines":1,"bbox":[314,298,158,60]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":12,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[488,294,34,40]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":12,"bbox":[524,226,190,180]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":12,"text":"FUNCTION","textPreview":"FUNCTION","textChars":8,"textLines":1,"bbox":[536,248,166,28]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":12,"text":"overlap 계산","textPreview":"overlap 계산","textChars":10,"textLines":1,"bbox":[540,298,158,60]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":12,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[714,294,34,40]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":12,"bbox":[750,226,190,180]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":12,"text":"ACTION","textPreview":"ACTION","textChars":6,"textLines":1,"bbox":[762,248,166,28]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":12,"text":"feedback 요청","textPreview":"feedback 요청","textChars":11,"textLines":1,"bbox":[766,298,158,60]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":12,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[940,294,34,40]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":12,"bbox":[976,226,190,180]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":12,"text":"PERMISSION","textPreview":"PERMISSION","textChars":10,"textLines":1,"bbox":[988,248,166,28]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":12,"text":"승인 · 감사","textPreview":"승인 · 감사","textChars":7,"textLines":1,"bbox":[992,298,158,60]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":12,"text":"저장 구조","textPreview":"저장 구조","textChars":5,"textLines":1,"bbox":[92,440,150,26]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":12,"bbox":[120,474,930,2]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":12,"text":"운영 변화","textPreview":"운영 변화","textChars":5,"textLines":1,"bbox":[1040,440,160,26]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":12,"text":"근거: original_text.txt §2.3, §3; 새 PDF p.6","textPreview":"근거: original_text.txt §2.3, §3; 새 PDF p.6","textChars":41,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/ei8962","slide":12,"text":""}
+{"kind":"slide","id":"sl/s8n2z6","slide":13,"title":"MECHANISM","textShapes":15}
+{"kind":"textbox","id":"sh/vixczed8","slide":13,"text":"MECHANISM","textPreview":"MECHANISM","textChars":9,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":13,"text":"데이터–로직–액션 계층은 ‘무엇이 있는가’에서 ‘무엇을 바꿀 것인가’까지 연결한다","textPreview":"데이터–로직–액션 계층은 ‘무엇이 있는가’에서 ‘무엇을 바꿀 것인가’까지 연결한다","textChars":45,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/donyd0z6","slide":13,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/val87ed8","slide":13,"text":"Palantir Ontology를 세 층으로 읽으면 각 층의 책임과 인터페이스가 분명해진다.","textPreview":"Palantir Ontology를 세 층으로 읽으면 각 층의 책임과 인터페이스가 분명해진다.","textChars":51,"textLines":1,"bbox":[72,178,1136,34]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":13,"bbox":[72,234,1136,108]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":13,"text":"DATA LAYER","textPreview":"DATA LAYER","textChars":10,"textLines":1,"bbox":[92,250,190,28]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":13,"text":"현실의 대상을 Object type과 Object로 표현한다. Property는 상태와 특성을, Link는 객체 간 업무 관계를 정의한다.","textPreview":"현실의 대상을 Object type과 Object로 표현한다. Property는 상태와 특성을, Link는 객체 간 업무 관계를 정의한다.","textChars":77,"textLines":1,"bbox":[290,246,600,70]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":13,"text":"예: Wafer–Inspection–DefectRegion–AnalysisCase","textPreview":"예: Wafer–Inspection–DefectRegion–AnalysisCase","textChars":45,"textLines":1,"bbox":[920,246,264,70]}
+{"kind":"shape","id":"sh/bq1oryts","slide":13,"bbox":[72,358,1136,108]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":13,"text":"LOGIC LAYER","textPreview":"LOGIC LAYER","textChars":11,"textLines":1,"bbox":[92,374,190,28]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":13,"text":"Function과 model이 객체를 입력으로 받아 계산·검색·예측·추천을 수행한다. 결과는 임시 score가 아니라 Evidence와 Hypothesis에 연결된다.","textPreview":"Function과 model이 객체를 입력으로 받아 계산·검색·예측·추천을 수행한다. 결과는 임시 score가 아니라 Evidence와 Hypothesis에 연결된다.","textChars":93,"textLines":1,"bbox":[290,370,600,70]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":13,"text":"예: overlap 계산, anomaly 탐지, 유사 case 검색","textPreview":"예: overlap 계산, anomaly 탐지, 유사 case 검색","textChars":37,"textLines":1,"bbox":[920,370,264,70]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":13,"bbox":[72,482,1136,108]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":13,"text":"ACTION LAYER","textPreview":"ACTION LAYER","textChars":12,"textLines":1,"bbox":[92,498,190,28]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":13,"text":"사용자가 업무 목표 단위의 변경을 실행한다. Action type은 property·link·status 변경과 외부 workflow를 하나의 통제된 transaction으로 묶는다.","textPreview":"사용자가 업무 목표 단위의 변경을 실행한다. Action type은 property·link·status 변경과 외부 workflow를 하나의 통제된 transaction으로 묶는다.","textChars":102,"textLines":1,"bbox":[290,494,600,70]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":13,"text":"예: case open, feedback request, decision 승인, close","textPreview":"예: case open, feedback request, decision 승인, close","textChars":50,"textLines":1,"bbox":[920,494,264,70]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":13,"text":"Permission · lineage · edit history · action log는 세 계층을 가로지르며 ‘누가 무엇을 보고 계산하고 변경했는가’를 남긴다.","textPreview":"Permission · lineage · edit history · action log는 세 계층을 가로지르며 ‘누가 무엇을 보고 계산하고 변경했는가’를 남긴다.","textChars":90,"textLines":1,"bbox":[120,612,1040,32]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":13,"text":"근거: 새 PDF pp.6~7; Palantir 공식 Ontology·Actions·Functions·Permissioning 문서(소스 수록)","textPreview":"근거: 새 PDF pp.6~7; Palantir 공식 Ontology·Actions·Functions·Permissioning 문서(소스 수록)","textChars":80,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/s8n2z6","slide":13,"text":""}
+{"kind":"slide","id":"sl/7s0qdt","slide":14,"title":"MECHANISM","textShapes":20}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":14,"text":"MECHANISM","textPreview":"MECHANISM","textChars":9,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":14,"text":"Function과 Action이 붙어야 모델 결과가 실제 업무를 변화시킨다","textPreview":"Function과 Action이 붙어야 모델 결과가 실제 업무를 변화시킨다","textChars":41,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":14,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/obm58z25","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":14,"bbox":[74,230,190,150]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":14,"text":"입력 객체","textPreview":"입력 객체","textChars":5,"textLines":1,"bbox":[88,250,162,28]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":14,"text":"Wafer · Inspection","textPreview":"Wafer · Inspection","textChars":18,"textLines":1,"bbox":[88,304,162,40]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[266,286,34,40]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":14,"bbox":[304,230,190,150]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":14,"text":"Function","textPreview":"Function","textChars":8,"textLines":1,"bbox":[318,250,162,28]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":14,"text":"match / anomaly","textPreview":"match / anomaly","textChars":15,"textLines":1,"bbox":[318,304,162,40]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[496,286,34,40]}
+{"kind":"shape","id":"sh/y90je9cv","slide":14,"bbox":[534,230,190,150]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":14,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[548,250,162,28]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":14,"text":"map · image · score","textPreview":"map · image · score","textChars":19,"textLines":1,"bbox":[548,304,162,40]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[726,286,34,40]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":14,"bbox":[764,230,190,150]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":14,"text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[778,250,162,28]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":14,"text":"request / approve","textPreview":"request / approve","textChars":17,"textLines":1,"bbox":[778,304,162,40]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":14,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[956,286,34,40]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":14,"bbox":[994,230,190,150]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":14,"text":"Audit","textPreview":"Audit","textChars":5,"textLines":1,"bbox":[1008,250,162,28]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":14,"text":"version · log","textPreview":"version · log","textChars":13,"textLines":1,"bbox":[1008,304,162,40]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":14,"bbox":[186,438,908,86]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":14,"text":"핵심 통제","textPreview":"핵심 통제","textChars":5,"textLines":1,"bbox":[210,454,130,28]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":14,"text":"AI는 허용된 object · function · action 범위 안에서만 실행하고, 사람의 승인과 이력을 남긴다.","textPreview":"AI는 허용된 object · function · action 범위 안에서만 실행하고, 사람의 승인과 이력을 남긴다.","textChars":65,"textLines":1,"bbox":[344,446,720,50]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":14,"text":"근거: original_text.txt §3.3~4.3; 새 PDF pp.6~7","textPreview":"근거: original_text.txt §3.3~4.3; 새 PDF pp.6~7","textChars":44,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/7s0qdt","slide":14,"text":""}
+{"kind":"slide","id":"sl/wpo7en","slide":15,"title":"APPLICATION","textShapes":12}
+{"kind":"textbox","id":"sh/gvy90je9","slide":15,"text":"APPLICATION","textPreview":"APPLICATION","textChars":11,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":15,"text":"첫 Ontology의 중심은 Wafer보다 Analysis Case가 실용적이다","textPreview":"첫 Ontology의 중심은 Wafer보다 Analysis Case가 실용적이다","textChars":44,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":15,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":15,"bbox":[470,260,340,130]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":15,"text":"ANALYSIS CASE","textPreview":"ANALYSIS CASE","textChars":13,"textLines":1,"bbox":[470,278,340,44]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":15,"text":"왜 열렸고 · 무엇을 근거로 · 어떻게 닫혔는가","textPreview":"왜 열렸고 · 무엇을 근거로 · 어떻게 닫혔는가","textChars":26,"textLines":1,"bbox":[490,328,300,42]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":15,"bbox":[110,220,240,74]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":15,"text":"Wafer / Lot","textPreview":"Wafer / Lot","textChars":11,"textLines":1,"bbox":[120,220,220,74]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":15,"bbox":[110,410,240,74]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":15,"text":"Inspection","textPreview":"Inspection","textChars":10,"textLines":1,"bbox":[120,410,220,74]}
+{"kind":"shape","id":"sh/gvy90je9","slide":15,"bbox":[930,220,240,74]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":15,"text":"ModelRun","textPreview":"ModelRun","textChars":8,"textLines":1,"bbox":[940,220,220,74]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":15,"bbox":[930,410,240,74]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":15,"text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[940,410,220,74]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":15,"bbox":[372,500,240,74]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":15,"text":"Hypothesis","textPreview":"Hypothesis","textChars":10,"textLines":1,"bbox":[382,500,220,74]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":15,"bbox":[688,500,240,74]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":15,"text":"Feedback / Decision","textPreview":"Feedback / Decision","textChars":19,"textLines":1,"bbox":[698,500,220,74]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":15,"text":"근거: original_text.txt §6.1~6.5; 새 PDF pp.8~9","textPreview":"근거: original_text.txt §6.1~6.5; 새 PDF pp.8~9","textChars":44,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/wpo7en","slide":15,"text":""}
+{"kind":"slide","id":"sl/1vzozx","slide":16,"title":"APPLICATION","textShapes":12}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":16,"text":"APPLICATION","textPreview":"APPLICATION","textChars":11,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":16,"text":"최소 설계는 Object–Link–Function–Action 네 층만으로 시작할 수 있다","textPreview":"최소 설계는 Object–Link–Function–Action 네 층만으로 시작할 수 있다","textChars":50,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":16,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/8bat47y1","slide":16,"bbox":[72,196,1136,78]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":16,"text":"OBJECT","textPreview":"OBJECT","textChars":6,"textLines":1,"bbox":[92,196,180,78]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":16,"text":"AnalysisCase · Wafer · Inspection · DefectRegion · VoidRegion","textPreview":"AnalysisCase · Wafer · Inspection · DefectRegion · VoidRegion","textChars":61,"textLines":1,"bbox":[284,196,892,78]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":16,"bbox":[72,294,1136,78]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":16,"text":"LINK","textPreview":"LINK","textChars":4,"textLines":1,"bbox":[92,294,180,78]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":16,"text":"investigates · detected_in · spatially_similar_to · supports","textPreview":"investigates · detected_in · spatially_similar_to · supports","textChars":60,"textLines":1,"bbox":[284,294,892,78]}
+{"kind":"shape","id":"sh/zidonyd0","slide":16,"bbox":[72,392,1136,78]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":16,"text":"FUNCTION","textPreview":"FUNCTION","textChars":8,"textLines":1,"bbox":[92,392,180,78]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":16,"text":"compute_spatial_overlap · summarize_evidence · retrieve_similar_cases","textPreview":"compute_spatial_overlap · summarize_evidence · retrieve_similar_cases","textChars":69,"textLines":1,"bbox":[284,392,892,78]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":16,"bbox":[72,490,1136,78]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":16,"text":"ACTION","textPreview":"ACTION","textChars":6,"textLines":1,"bbox":[92,490,180,78]}
+{"kind":"textbox","id":"sh/svu9knih","slide":16,"text":"open_case · attach_evidence · request_feedback · close_case","textPreview":"open_case · attach_evidence · request_feedback · close_case","textChars":59,"textLines":1,"bbox":[284,490,892,78]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":16,"text":"근거: original_text.txt §6.2~6.5","textPreview":"근거: original_text.txt §6.2~6.5","textChars":30,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/1vzozx","slide":16,"text":""}
+{"kind":"slide","id":"sl/acjjsv","slide":17,"title":"APPLICATION","textShapes":14}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":17,"text":"APPLICATION","textPreview":"APPLICATION","textChars":11,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":17,"text":"불확실성을 객체화해야 분석 결과를 과장하지 않고 학습할 수 있다","textPreview":"불확실성을 객체화해야 분석 결과를 과장하지 않고 학습할 수 있다","textChars":35,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/fepkzupw","slide":17,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":17,"bbox":[90,230,260,150]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":17,"text":"SAT VoidRegion","textPreview":"SAT VoidRegion","textChars":14,"textLines":1,"bbox":[110,250,220,36]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":17,"text":"관측 위치 · layer 후보","textPreview":"관측 위치 · layer 후보","textChars":16,"textLines":1,"bbox":[110,306,220,32]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":17,"bbox":[930,230,260,150]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":17,"text":"BF/DF DefectRegion","textPreview":"BF/DF DefectRegion","textChars":18,"textLines":1,"bbox":[950,250,220,36]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":17,"text":"검출 위치 · cluster","textPreview":"검출 위치 · cluster","textChars":15,"textLines":1,"bbox":[950,306,220,32]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":17,"bbox":[420,202,440,210]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":17,"text":"HYPOTHESIS","textPreview":"HYPOTHESIS","textChars":10,"textLines":1,"bbox":[440,220,400,30]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":17,"text":"spatially_similar_to","textPreview":"spatially_similar_to","textChars":20,"textLines":1,"bbox":[440,260,400,40]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":17,"text":"Evidence 0.73  |  Mapping assumption  |  Confidence: Medium","textPreview":"Evidence 0.73  |  Mapping assumption  |  Confidence: Medium","textChars":59,"textLines":1,"bbox":[450,322,380,52]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":17,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[355,280,55,40]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":17,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[870,280,55,40]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":17,"text":"공간 유사성은 인과관계가 아니다.","textPreview":"공간 유사성은 인과관계가 아니다.","textChars":18,"textLines":1,"bbox":[255,466,770,44]}
+{"kind":"textbox","id":"sh/lwval87e","slide":17,"text":"근거: original_text.txt §7; 새 PDF pp.8~9","textPreview":"근거: original_text.txt §7; 새 PDF pp.8~9","textChars":38,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/acjjsv","slide":17,"text":""}
+{"kind":"slide","id":"sl/6ory60","slide":18,"title":"ARCHITECTURE","textShapes":19}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":18,"text":"ARCHITECTURE","textPreview":"ARCHITECTURE","textChars":12,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":18,"text":"Ontology는 MES·BI·MLOps를 대체하지 않고 판단 경계를 연결한다","textPreview":"Ontology는 MES·BI·MLOps를 대체하지 않고 판단 경계를 연결한다","textChars":43,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/8v6psfil","slide":18,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":18,"bbox":[72,198,220,54]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":18,"text":"시스템","textPreview":"시스템","textChars":3,"textLines":1,"bbox":[82,198,200,54]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":18,"bbox":[310,198,340,54]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":18,"text":"주 역할","textPreview":"주 역할","textChars":4,"textLines":1,"bbox":[320,198,320,54]}
+{"kind":"shape","id":"sh/q1orytsv","slide":18,"bbox":[670,198,538,54]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":18,"text":"Ontology와의 경계","textPreview":"Ontology와의 경계","textChars":13,"textLines":1,"bbox":[680,198,518,54]}
+{"kind":"shape","id":"sh/t83itgfm","slide":18,"bbox":[72,252,220,70]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":18,"text":"MES / ERP","textPreview":"MES / ERP","textChars":9,"textLines":1,"bbox":[84,252,196,70]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":18,"bbox":[310,252,340,70]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":18,"text":"생산·실행·거래 기록","textPreview":"생산·실행·거래 기록","textChars":11,"textLines":1,"bbox":[322,252,316,70]}
+{"kind":"shape","id":"sh/twra5gbq","slide":18,"bbox":[670,252,538,70]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":18,"text":"현장 이력과 업무 객체 연결","textPreview":"현장 이력과 업무 객체 연결","textChars":15,"textLines":1,"bbox":[682,252,514,70]}
+{"kind":"shape","id":"sh/bq1oryts","slide":18,"bbox":[72,330,220,70]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":18,"text":"BI / Dashboard","textPreview":"BI / Dashboard","textChars":14,"textLines":1,"bbox":[84,330,196,70]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":18,"bbox":[310,330,340,70]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":18,"text":"조회·모니터링·시각화","textPreview":"조회·모니터링·시각화","textChars":11,"textLines":1,"bbox":[322,330,316,70]}
+{"kind":"shape","id":"sh/4zidonyd","slide":18,"bbox":[670,330,538,70]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":18,"text":"case·책임·decision 이력 보완","textPreview":"case·책임·decision 이력 보완","textChars":22,"textLines":1,"bbox":[682,330,514,70]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":18,"bbox":[72,408,220,70]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":18,"text":"MLOps","textPreview":"MLOps","textChars":5,"textLines":1,"bbox":[84,408,196,70]}
+{"kind":"shape","id":"sh/4r65wjud","slide":18,"bbox":[310,408,340,70]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":18,"text":"모델 버전·배포·모니터링","textPreview":"모델 버전·배포·모니터링","textChars":13,"textLines":1,"bbox":[322,408,316,70]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":18,"bbox":[670,408,538,70]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":18,"text":"ModelRun을 evidence와 action에 연결","textPreview":"ModelRun을 evidence와 action에 연결","textChars":30,"textLines":1,"bbox":[682,408,514,70]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":18,"bbox":[72,486,220,70]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":18,"text":"Ontology layer","textPreview":"Ontology layer","textChars":14,"textLines":1,"bbox":[84,486,196,70]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":18,"bbox":[310,486,340,70]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":18,"text":"공통 객체·관계·판단·action","textPreview":"공통 객체·관계·판단·action","textChars":18,"textLines":1,"bbox":[322,486,316,70]}
+{"kind":"shape","id":"sh/p4r65wju","slide":18,"bbox":[670,486,538,70]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":18,"text":"시스템 간 의미와 운영 루프 연결","textPreview":"시스템 간 의미와 운영 루프 연결","textChars":18,"textLines":1,"bbox":[682,486,514,70]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":18,"text":"근거: 새 PDF pp.6~7; 실제 경계는 조직 아키텍처에 따라 조정","textPreview":"근거: 새 PDF pp.6~7; 실제 경계는 조직 아키텍처에 따라 조정","textChars":39,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/6ory60","slide":18,"text":""}
+{"kind":"slide","id":"sl/ja85r8","slide":19,"title":"ROADMAP","textShapes":18}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":19,"text":"ROADMAP","textPreview":"ROADMAP","textChars":7,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":19,"text":"성숙도는 Schema에서 Action으로, Action에서 Closed-loop Learning으로 올라간다","textPreview":"성숙도는 Schema에서 Action으로, Action에서 Closed-loop Learning으로 올라간다","textChars":60,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/8v6psfil","slide":19,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":19,"bbox":[72,454,164,120]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":19,"text":"L0","textPreview":"L0","textChars":2,"textLines":1,"bbox":[84,466,140,26]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":19,"text":"File/Table","textPreview":"File/Table","textChars":10,"textLines":1,"bbox":[84,502,140,50]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":19,"bbox":[260,406,164,120]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":19,"text":"L1","textPreview":"L1","textChars":2,"textLines":1,"bbox":[272,418,140,26]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":19,"text":"Unified Schema","textPreview":"Unified Schema","textChars":14,"textLines":1,"bbox":[272,454,140,50]}
+{"kind":"shape","id":"sh/t83itgfm","slide":19,"bbox":[448,358,164,120]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":19,"text":"L2","textPreview":"L2","textChars":2,"textLines":1,"bbox":[460,370,140,26]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":19,"text":"Object–Link","textPreview":"Object–Link","textChars":11,"textLines":1,"bbox":[460,406,140,50]}
+{"kind":"shape","id":"sh/4byhgn29","slide":19,"bbox":[636,310,164,120]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":19,"text":"L3","textPreview":"L3","textChars":2,"textLines":1,"bbox":[648,322,140,26]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":19,"text":"Function","textPreview":"Function","textChars":8,"textLines":1,"bbox":[648,358,140,50]}
+{"kind":"shape","id":"sh/bq1oryts","slide":19,"bbox":[824,262,164,120]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":19,"text":"L4","textPreview":"L4","textChars":2,"textLines":1,"bbox":[836,274,140,26]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":19,"text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[836,310,140,50]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":19,"bbox":[1012,214,164,120]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":19,"text":"L5","textPreview":"L5","textChars":2,"textLines":1,"bbox":[1024,226,140,26]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":19,"text":"Closed-loop","textPreview":"Closed-loop","textChars":11,"textLines":1,"bbox":[1024,262,140,50]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":19,"bbox":[420,196,330,34]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":19,"text":"현실적 1차 목표: L2~L3","textPreview":"현실적 1차 목표: L2~L3","textChars":16,"textLines":1,"bbox":[428,196,314,34]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":19,"text":"작은 use case를 닫은 뒤 Action과 학습으로 확장한다.","textPreview":"작은 use case를 닫은 뒤 Action과 학습으로 확장한다.","textChars":36,"textLines":1,"bbox":[280,252,720,54]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":19,"text":"근거: original_text.txt §9","textPreview":"근거: original_text.txt §9","textChars":24,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/ja85r8","slide":19,"text":""}
+{"kind":"slide","id":"sl/jbclva","slide":20,"title":"EXECUTION","textShapes":20}
+{"kind":"textbox","id":"sh/cbulwval","slide":20,"text":"EXECUTION","textPreview":"EXECUTION","textChars":9,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":20,"text":"4~8주 PoC는 SAT void ↔ BF/DF 유사성 Case 한 개를 끝까지 닫아야 한다","textPreview":"4~8주 PoC는 SAT void ↔ BF/DF 유사성 Case 한 개를 끝까지 닫아야 한다","textChars":51,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/u54zidon","slide":20,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/czed8v6p","slide":20,"bbox":[72,230,190,150]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":20,"text":"1주","textPreview":"1주","textChars":2,"textLines":1,"bbox":[88,248,158,28]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":20,"text":"객체·관계 정의","textPreview":"객체·관계 정의","textChars":8,"textLines":1,"bbox":[88,294,158,52]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":20,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[262,284,34,40]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":20,"bbox":[297,230,190,150]}
+{"kind":"textbox","id":"sh/u54zidon","slide":20,"text":"2주","textPreview":"2주","textChars":2,"textLines":1,"bbox":[313,248,158,28]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":20,"text":"데이터·Evidence 연결","textPreview":"데이터·Evidence 연결","textChars":15,"textLines":1,"bbox":[313,294,158,52]}
+{"kind":"textbox","id":"sh/cbulwval","slide":20,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[487,284,34,40]}
+{"kind":"shape","id":"sh/5sneloj2","slide":20,"bbox":[522,230,190,150]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":20,"text":"3주","textPreview":"3주","textChars":2,"textLines":1,"bbox":[538,248,158,28]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":20,"text":"Matching·Case 생성","textPreview":"Matching·Case 생성","textChars":16,"textLines":1,"bbox":[538,294,158,52]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":20,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[712,284,34,40]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":20,"bbox":[747,230,190,150]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":20,"text":"4주","textPreview":"4주","textChars":2,"textLines":1,"bbox":[763,248,158,28]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":20,"text":"Feedback·Decision","textPreview":"Feedback·Decision","textChars":17,"textLines":1,"bbox":[763,294,158,52]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":20,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[937,284,34,40]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":20,"bbox":[972,230,190,150]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":20,"text":"5~8주","textPreview":"5~8주","textChars":4,"textLines":1,"bbox":[988,248,158,28]}
+{"kind":"textbox","id":"sh/8jqh0fep","slide":20,"text":"유사 Case·운영 KPI","textPreview":"유사 Case·운영 KPI","textChars":14,"textLines":1,"bbox":[988,294,158,52]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":20,"bbox":[200,440,880,86]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":20,"text":"PoC 종료 조건","textPreview":"PoC 종료 조건","textChars":9,"textLines":1,"bbox":[224,456,170,28]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":20,"text":"Case open → Evidence → Feedback → Decision → Closure가 실제 사용자 흐름으로 작동","textPreview":"Case open → Evidence → Feedback → Decision → Closure가 실제 사용자 흐름으로 작동","textChars":68,"textLines":1,"bbox":[398,448,650,48]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":20,"text":"근거: original_text.txt §10.1~10.3; 새 PDF pp.8~9, p.11","textPreview":"근거: original_text.txt §10.1~10.3; 새 PDF pp.8~9, p.11","textChars":52,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/jbclva","slide":20,"text":""}
+{"kind":"slide","id":"sl/os4fnd","slide":21,"title":"DECISION","textShapes":14}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":21,"text":"DECISION","textPreview":"DECISION","textChars":8,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":21,"text":"PoC의 합격 기준은 정확도보다 운영 종료와 재사용 가능성이다","textPreview":"PoC의 합격 기준은 정확도보다 운영 종료와 재사용 가능성이다","textChars":34,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":21,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":21,"bbox":[72,210,250,130]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":21,"text":"CASE LEAD TIME","textPreview":"CASE LEAD TIME","textChars":14,"textLines":1,"bbox":[88,230,218,26]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":21,"text":"Open → Close 시간","textPreview":"Open → Close 시간","textChars":15,"textLines":1,"bbox":[88,278,218,38]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":21,"bbox":[358,210,250,130]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":21,"text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[374,230,218,26]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":21,"text":"필수 근거 완결률","textPreview":"필수 근거 완결률","textChars":9,"textLines":1,"bbox":[374,278,218,38]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":21,"bbox":[644,210,250,130]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":21,"text":"RESPONSE","textPreview":"RESPONSE","textChars":8,"textLines":1,"bbox":[660,230,218,26]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":21,"text":"Feedback 응답률","textPreview":"Feedback 응답률","textChars":12,"textLines":1,"bbox":[660,278,218,38]}
+{"kind":"shape","id":"sh/yd0z6103","slide":21,"bbox":[930,210,250,130]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":21,"text":"REUSE","textPreview":"REUSE","textChars":5,"textLines":1,"bbox":[946,230,218,26]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":21,"text":"유사 case 재사용률","textPreview":"유사 case 재사용률","textChars":12,"textLines":1,"bbox":[946,278,218,38]}
+{"kind":"shape","id":"sh/90je9cvi","slide":21,"bbox":[72,390,1136,150]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":21,"text":"의사결정 원칙","textPreview":"의사결정 원칙","textChars":7,"textLines":1,"bbox":[98,410,220,30]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":21,"text":"운영 모델과 데이터 경계를 먼저 검증한 뒤 Build · Buy · Hybrid를 비교한다.","textPreview":"운영 모델과 데이터 경계를 먼저 검증한 뒤 Build · Buy · Hybrid를 비교한다.","textChars":51,"textLines":1,"bbox":[98,456,1040,44]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":21,"text":"근거: original_text.txt §10.4, §12~13; 새 PDF p.11","textPreview":"근거: original_text.txt §10.4, §12~13; 새 PDF p.11","textChars":47,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/os4fnd","slide":21,"text":""}
+{"kind":"slide","id":"sl/p01pcd","slide":22,"title":"APPENDIX","textShapes":14}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":22,"text":"APPENDIX","textPreview":"APPENDIX","textChars":8,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":22,"text":"실패는 범위를 크게 잡거나 Action을 빼는 순간 시작된다","textPreview":"실패는 범위를 크게 잡거나 Action을 빼는 순간 시작된다","textChars":33,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":22,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/gvy90je9","slide":22,"bbox":[72,188,400,66]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":22,"bbox":[472,188,736,66]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":22,"text":"Big Bang Ontology","textPreview":"Big Bang Ontology","textChars":17,"textLines":1,"bbox":[92,188,360,66]}
+{"kind":"textbox","id":"sh/9knih4by","slide":22,"text":"특정 use case로 범위 제한","textPreview":"특정 use case로 범위 제한","textChars":18,"textLines":1,"bbox":[494,188,690,66]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":22,"bbox":[72,266,400,66]}
+{"kind":"shape","id":"sh/ulwval87","slide":22,"bbox":[472,266,736,66]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":22,"text":"Schema renaming","textPreview":"Schema renaming","textChars":15,"textLines":1,"bbox":[92,266,360,66]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":22,"text":"Object–Link–Action으로 검증","textPreview":"Object–Link–Action으로 검증","textChars":23,"textLines":1,"bbox":[494,266,690,66]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":22,"bbox":[72,344,400,66]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":22,"bbox":[472,344,736,66]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":22,"text":"Dashboard repackaging","textPreview":"Dashboard repackaging","textChars":21,"textLines":1,"bbox":[92,344,360,66]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":22,"text":"Case status와 decision log 추가","textPreview":"Case status와 decision log 추가","textChars":28,"textLines":1,"bbox":[494,344,690,66]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":22,"bbox":[72,422,400,66]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":22,"bbox":[472,422,736,66]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":22,"text":"Model-first trap","textPreview":"Model-first trap","textChars":16,"textLines":1,"bbox":[92,422,360,66]}
+{"kind":"textbox","id":"sh/bulwval8","slide":22,"text":"결과를 Evidence·Hypothesis에 연결","textPreview":"결과를 Evidence·Hypothesis에 연결","textChars":27,"textLines":1,"bbox":[494,422,690,66]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":22,"bbox":[72,500,400,66]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":22,"bbox":[472,500,736,66]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":22,"text":"Over-rigid modeling","textPreview":"Over-rigid modeling","textChars":19,"textLines":1,"bbox":[92,500,360,66]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":22,"text":"Assumption·Confidence 허용","textPreview":"Assumption·Confidence 허용","textChars":24,"textLines":1,"bbox":[494,500,690,66]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":22,"text":"근거: original_text.txt §11; 새 PDF p.10","textPreview":"근거: original_text.txt §11; 새 PDF p.10","textChars":37,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/p01pcd","slide":22,"text":""}
+{"kind":"slide","id":"sl/zr7owg","slide":23,"title":"APPENDIX","textShapes":12}
+{"kind":"textbox","id":"sh/idonyd0z","slide":23,"text":"APPENDIX","textPreview":"APPENDIX","textChars":8,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":23,"text":"핵심 객체·링크·함수·행동은 PoC 경계를 명시하는 계약이다","textPreview":"핵심 객체·링크·함수·행동은 PoC 경계를 명시하는 계약이다","textChars":33,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/0je9cvix","slide":23,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":23,"bbox":[72,190,540,180]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":23,"text":"OBJECT","textPreview":"OBJECT","textChars":6,"textLines":1,"bbox":[94,208,496,28]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":23,"text":"AnalysisCase · Wafer · Lot\nInspection · DefectRegion\nVoidRegion · ModelRun","textPreview":"AnalysisCase · Wafer · Lot | Inspection · DefectRegion | VoidRegion · ModelRun","textChars":74,"textLines":3,"bbox":[94,252,496,94]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":23,"bbox":[640,190,540,180]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":23,"text":"LINK","textPreview":"LINK","textChars":4,"textLines":1,"bbox":[662,208,496,28]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":23,"text":"investigates · uses\nspatially_similar_to\nsupports · closes","textPreview":"investigates · uses | spatially_similar_to | supports · closes","textChars":58,"textLines":3,"bbox":[662,252,496,94]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":23,"bbox":[72,400,540,180]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":23,"text":"FUNCTION","textPreview":"FUNCTION","textChars":8,"textLines":1,"bbox":[94,418,496,28]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":23,"text":"detect_adaptive_anomaly\ncompute_spatial_overlap\nretrieve_similar_cases","textPreview":"detect_adaptive_anomaly | compute_spatial_overlap | retrieve_similar_cases","textChars":70,"textLines":3,"bbox":[94,462,496,94]}
+{"kind":"shape","id":"sh/sji5snel","slide":23,"bbox":[640,400,540,180]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":23,"text":"ACTION","textPreview":"ACTION","textChars":6,"textLines":1,"bbox":[662,418,496,28]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":23,"text":"open_case · attach_evidence\nrequest_feedback · approve\nclose_case · send_to_training","textPreview":"open_case · attach_evidence | request_feedback · approve | close_case · send_to_training","textChars":84,"textLines":3,"bbox":[662,462,496,94]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":23,"text":"근거: original_text.txt §6.2~6.5","textPreview":"근거: original_text.txt §6.2~6.5","textChars":30,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/zr7owg","slide":23,"text":""}
+{"kind":"slide","id":"sl/ugv89o","slide":24,"title":"APPENDIX","textShapes":17}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":24,"text":"APPENDIX","textPreview":"APPENDIX","textChars":8,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":24,"text":"출처와 해석의 경계를 남겨야 기술 주장의 신뢰가 유지된다","textPreview":"출처와 해석의 경계를 남겨야 기술 주장의 신뢰가 유지된다","textChars":31,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":24,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/obm58z25","slide":24,"bbox":[72,186,250,80]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":24,"bbox":[322,186,500,80]}
+{"kind":"shape","id":"sh/65wjudg7","slide":24,"bbox":[822,186,386,80]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":24,"text":"공식 제품 문서","textPreview":"공식 제품 문서","textChars":8,"textLines":1,"bbox":[88,186,218,80]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":24,"text":"Palantir Ontology · Actions · Functions · Permissioning · AIP","textPreview":"Palantir Ontology · Actions · Functions · Permissioning · AIP","textChars":61,"textLines":1,"bbox":[340,186,464,80]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":24,"text":"제품 구조와 기능 범위","textPreview":"제품 구조와 기능 범위","textChars":12,"textLines":1,"bbox":[840,186,350,80]}
+{"kind":"shape","id":"sh/je9cvixc","slide":24,"bbox":[72,280,250,80]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":24,"bbox":[322,280,500,80]}
+{"kind":"shape","id":"sh/1gvy90je","slide":24,"bbox":[822,280,386,80]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":24,"text":"학술·표준","textPreview":"학술·표준","textChars":5,"textLines":1,"bbox":[88,280,218,80]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":24,"text":"Gruber · Guarino · W3C OWL · Stanford Encyclopedia","textPreview":"Gruber · Guarino · W3C OWL · Stanford Encyclopedia","textChars":50,"textLines":1,"bbox":[340,280,464,80]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":24,"text":"개념 정의와 형식적 구분","textPreview":"개념 정의와 형식적 구분","textChars":13,"textLines":1,"bbox":[840,280,350,80]}
+{"kind":"shape","id":"sh/xs72x4na","slide":24,"bbox":[72,374,250,80]}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":24,"bbox":[322,374,500,80]}
+{"kind":"shape","id":"sh/fyxobm58","slide":24,"bbox":[822,374,386,80]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":24,"text":"반도체 도메인","textPreview":"반도체 도메인","textChars":7,"textLines":1,"bbox":[88,374,218,80]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":24,"text":"제조·검사 semantics 및 knowledge graph 관련 자료","textPreview":"제조·검사 semantics 및 knowledge graph 관련 자료","textChars":39,"textLines":1,"bbox":[340,374,464,80]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":24,"text":"적용 맥락과 문제 정의","textPreview":"적용 맥락과 문제 정의","textChars":12,"textLines":1,"bbox":[840,374,350,80]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":24,"bbox":[72,468,250,80]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":24,"bbox":[322,468,500,80]}
+{"kind":"shape","id":"sh/i5sneloj","slide":24,"bbox":[822,468,386,80]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":24,"text":"내부 설계 제안","textPreview":"내부 설계 제안","textChars":8,"textLines":1,"bbox":[88,468,218,80]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":24,"text":"Analysis Case · 4~8주 PoC · 운영 KPI","textPreview":"Analysis Case · 4~8주 PoC · 운영 KPI","textChars":33,"textLines":1,"bbox":[340,468,464,80]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":24,"text":"검증할 가설 — 실증 결과 아님","textPreview":"검증할 가설 — 실증 결과 아님","textChars":17,"textLines":1,"bbox":[840,468,350,80]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":24,"text":"상세 URL과 서지는 source PDF pp.11~14 참조","textPreview":"상세 URL과 서지는 source PDF pp.11~14 참조","textChars":34,"textLines":1,"bbox":[72,590,800,28]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":24,"text":"근거: source/책으로만 읽은 팔란티어와 온톨로지 이야기.pdf pp.11~14","textPreview":"근거: source/책으로만 읽은 팔란티어와 온톨로지 이야기.pdf pp.11~14","textChars":46,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/ugv89o","slide":24,"text":""}
+{"kind":"slide","id":"sl/aweqf2","slide":25,"title":"ONTOLOGY BUILD","textShapes":12}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":25,"text":"ONTOLOGY BUILD","textPreview":"ONTOLOGY BUILD","textChars":14,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":25,"text":"Ontology 설계에는 정답 하나가 없으며, 목적에 맞춰 반복적으로 검증해야 한다","textPreview":"Ontology 설계에는 정답 하나가 없으며, 목적에 맞춰 반복적으로 검증해야 한다","textChars":46,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":25,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":25,"text":"Stanford의 Ontology Development 101은 특정 도구보다 설계 원칙을 강조한다. 좋은 모델은 가장 철학적으로 완전한 모델이 아니라, 예상한 사용과 질문에 답하면서 확장·유지 가능한 모델이다.","textPreview":"Stanford의 Ontology Development 101은 특정 도구보다 설계 원칙을 강조한다. 좋은 모델은 가장 철학적으로 완전한 모델이 아니라, 예상한 사용과 질문에 답하면서 확장·유지 가능한 모델이다.","textChars":118,"textLines":1,"bbox":[72,178,1136,76]}
+{"kind":"shape","id":"sh/bm58z25k","slide":25,"bbox":[72,310,340,230]}
+{"kind":"shape","id":"sh/m1cfa9w3","slide":25,"bbox":[72,310,6,230]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":25,"text":"1. 목적이 모델을 결정","textPreview":"1. 목적이 모델을 결정","textChars":13,"textLines":1,"bbox":[94,328,300,34]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":25,"text":"같은 도메인도 검색, 추천, 운영 action 등 사용 목적에 따라 필요한 개념과 세부 수준이 달라진다.","textPreview":"같은 도메인도 검색, 추천, 운영 action 등 사용 목적에 따라 필요한 개념과 세부 수준이 달라진다.","textChars":58,"textLines":1,"bbox":[94,372,300,154]}
+{"kind":"shape","id":"sh/m58z25kb","slide":25,"bbox":[450,310,340,230]}
+{"kind":"shape","id":"sh/bq1oryts","slide":25,"bbox":[450,310,6,230]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":25,"text":"2. 개발은 반복 과정","textPreview":"2. 개발은 반복 과정","textChars":12,"textLines":1,"bbox":[472,328,300,34]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":25,"text":"초기 초안을 애플리케이션과 도메인 전문가로 검증하고, 오류·누락·과도한 일반화를 계속 수정한다.","textPreview":"초기 초안을 애플리케이션과 도메인 전문가로 검증하고, 오류·누락·과도한 일반화를 계속 수정한다.","textChars":53,"textLines":1,"bbox":[472,372,300,154]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":25,"bbox":[828,310,340,230]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":25,"bbox":[828,310,6,230]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":25,"text":"3. 명사와 동사에서 시작","textPreview":"3. 명사와 동사에서 시작","textChars":14,"textLines":1,"bbox":[850,328,300,34]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":25,"text":"도메인 문장의 명사는 class/object 후보, 동사는 relation/action 후보가 된다.","textPreview":"도메인 문장의 명사는 class/object 후보, 동사는 relation/action 후보가 된다.","textChars":56,"textLines":1,"bbox":[850,372,300,154]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":25,"text":"설계 품질 = task 적합성 + 직관성 + 확장성 + 유지보수성","textPreview":"설계 품질 = task 적합성 + 직관성 + 확장성 + 유지보수성","textChars":36,"textLines":1,"bbox":[260,574,760,36]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":25,"text":"출처: Noy & McGuinness, Ontology Development 101, pp.3~4","textPreview":"출처: Noy & McGuinness, Ontology Development 101, pp.3~4","textChars":54,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/aweqf2","slide":25,"text":""}
+{"kind":"slide","id":"sl/6bdbfv","slide":26,"title":"ONTOLOGY BUILD","textShapes":26}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":26,"text":"ONTOLOGY BUILD","textPreview":"ONTOLOGY BUILD","textChars":14,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":26,"text":"Ontology는 범위 질문에서 시작해 Class·Property·Instance로 구체화한다","textPreview":"Ontology는 범위 질문에서 시작해 Class·Property·Instance로 구체화한다","textChars":52,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":26,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"shape","id":"sh/obm58z25","slide":26,"bbox":[72,184,42,34]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":26,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[80,184,26,34]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":26,"text":"Domain & scope","textPreview":"Domain & scope","textChars":14,"textLines":1,"bbox":[132,176,220,54]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":26,"text":"목적·사용자·유지 책임·답해야 할 질문 정의","textPreview":"목적·사용자·유지 책임·답해야 할 질문 정의","textChars":24,"textLines":1,"bbox":[356,176,830,54]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":26,"bbox":[132,233,1054,1]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":26,"bbox":[72,249,42,34]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":26,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[80,249,26,34]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":26,"text":"Reuse","textPreview":"Reuse","textChars":5,"textLines":1,"bbox":[132,241,220,54]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":26,"text":"기존 ontology·표준·controlled vocabulary 검토","textPreview":"기존 ontology·표준·controlled vocabulary 검토","textChars":39,"textLines":1,"bbox":[356,241,830,54]}
+{"kind":"shape","id":"sh/q1orytsv","slide":26,"bbox":[132,298,1054,1]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":26,"bbox":[72,314,42,34]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":26,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[80,314,26,34]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":26,"text":"Terms","textPreview":"Terms","textChars":5,"textLines":1,"bbox":[132,306,220,54]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":26,"text":"중요 용어를 중복 걱정 없이 폭넓게 수집","textPreview":"중요 용어를 중복 걱정 없이 폭넓게 수집","textChars":22,"textLines":1,"bbox":[356,306,830,54]}
+{"kind":"shape","id":"sh/fyxobm58","slide":26,"bbox":[132,363,1054,1]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":26,"bbox":[72,379,42,34]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":26,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[80,379,26,34]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":26,"text":"Classes","textPreview":"Classes","textChars":7,"textLines":1,"bbox":[132,371,220,54]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":26,"text":"class와 is-a 계층 정의","textPreview":"class와 is-a 계층 정의","textChars":17,"textLines":1,"bbox":[356,371,830,54]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":26,"bbox":[132,428,1054,1]}
+{"kind":"shape","id":"sh/i5sneloj","slide":26,"bbox":[72,444,42,34]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":26,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[80,444,26,34]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":26,"text":"Properties","textPreview":"Properties","textChars":10,"textLines":1,"bbox":[132,436,220,54]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":26,"text":"속성과 객체 간 관계(slot) 정의","textPreview":"속성과 객체 간 관계(slot) 정의","textChars":20,"textLines":1,"bbox":[356,436,830,54]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":26,"bbox":[132,493,1054,1]}
+{"kind":"shape","id":"sh/8bat47y1","slide":26,"bbox":[72,509,42,34]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":26,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[80,509,26,34]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":26,"text":"Facets","textPreview":"Facets","textChars":6,"textLines":1,"bbox":[132,501,220,54]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":26,"text":"값 유형·허용값·cardinality·domain/range 정의","textPreview":"값 유형·허용값·cardinality·domain/range 정의","textChars":36,"textLines":1,"bbox":[356,501,830,54]}
+{"kind":"shape","id":"sh/8nqxs72x","slide":26,"bbox":[132,558,1054,1]}
+{"kind":"shape","id":"sh/18jqh0fe","slide":26,"bbox":[72,574,42,34]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":26,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[80,574,26,34]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":26,"text":"Instances","textPreview":"Instances","textChars":9,"textLines":1,"bbox":[132,566,220,54]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":26,"text":"실제 개체를 생성하고 속성값으로 검증","textPreview":"실제 개체를 생성하고 속성값으로 검증","textChars":20,"textLines":1,"bbox":[356,566,830,54]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":26,"bbox":[132,623,1054,1]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":26,"text":"Class hierarchy와 Property 정의는 순차 작업이 아니라 서로를 수정하며 반복하는 핵심 활동이다.","textPreview":"Class hierarchy와 Property 정의는 순차 작업이 아니라 서로를 수정하며 반복하는 핵심 활동이다.","textChars":63,"textLines":1,"bbox":[170,610,940,28]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":26,"text":"출처: Ontology Development 101, Steps 1~7, pp.5~11","textPreview":"출처: Ontology Development 101, Steps 1~7, pp.5~11","textChars":48,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/6bdbfv","slide":26,"text":""}
+{"kind":"slide","id":"sl/rkbb0i","slide":27,"title":"ONTOLOGY BUILD","textShapes":12}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":27,"text":"ONTOLOGY BUILD","textPreview":"ONTOLOGY BUILD","textChars":14,"textLines":1,"bbox":[72,34,300,24]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":27,"text":"반도체 Ontology는 ‘답해야 할 질문’과 실제 Case로 작게 검증한다","textPreview":"반도체 Ontology는 ‘답해야 할 질문’과 실제 Case로 작게 검증한다","textChars":42,"textLines":1,"bbox":[72,68,1136,70]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":27,"bbox":[72,148,1136,1]}
+{"kind":"textbox","id":"sh/val87ed8","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1168,674,40,20]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":27,"text":"첫 워크숍의 산출물은 거대한 enterprise model이 아니라, 한 use case를 설명하고 실행하는 최소 ontology 초안이어야 한다.","textPreview":"첫 워크숍의 산출물은 거대한 enterprise model이 아니라, 한 use case를 설명하고 실행하는 최소 ontology 초안이어야 한다.","textChars":82,"textLines":1,"bbox":[72,178,1136,48]}
+{"kind":"shape","id":"sh/dcbulwva","slide":27,"bbox":[72,280,340,260]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":27,"text":"Competency questions","textPreview":"Competency questions","textChars":20,"textLines":1,"bbox":[94,302,296,34]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":27,"text":"• 어떤 SAT void를 우선 검토해야 하는가?\n• 어떤 BF/DF defect가 공간적으로 유사한가?\n• 누가 feedback하고 어떤 근거로 case를 닫는가?","textPreview":"• 어떤 SAT void를 우선 검토해야 하는가? | • 어떤 BF/DF defect가 공간적으로 유사한가? | • 누가 feedback하고 어떤 근거로 case를 닫는가?","textChars":92,"textLines":3,"bbox":[94,358,296,136]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":27,"bbox":[450,280,340,260]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":27,"text":"Minimum model","textPreview":"Minimum model","textChars":13,"textLines":1,"bbox":[472,302,296,34]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":27,"text":"Class: Wafer, Inspection, DefectRegion, AnalysisCase\nRelation: detected_in, similar_to, supports\nProperty: 좌표, layer, score, confidence, status","textPreview":"Class: Wafer, Inspection, DefectRegion, AnalysisCase | Relation: detected_in, similar_to, supports | Property: 좌표, layer, score, confiden...","textChars":143,"textLines":3,"bbox":[472,358,296,136]}
+{"kind":"shape","id":"sh/at47y1kr","slide":27,"bbox":[828,280,340,260]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":27,"text":"Instance test","textPreview":"Instance test","textChars":13,"textLines":1,"bbox":[850,302,296,34]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":27,"text":"실제 wafer 5~10건을 instance로 입력\n질문에 답할 수 있는지 확인\n누락된 relation·property와 잘못된 class hierarchy 수정","textPreview":"실제 wafer 5~10건을 instance로 입력 | 질문에 답할 수 있는지 확인 | 누락된 relation·property와 잘못된 class hierarchy 수정","textChars":90,"textLines":3,"bbox":[850,358,296,136]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":27,"bbox":[180,572,920,62]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":27,"text":"반복 루프  |  Scope → Terms → Model → Instances → Application test → Revision","textPreview":"반복 루프  |  Scope → Terms → Model → Instances → Application test → Revision","textChars":73,"textLines":1,"bbox":[200,572,880,62]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":27,"text":"출처: Ontology Development 101의 competency question·iterative design 원칙을 반도체 use case로 적용","textPreview":"출처: Ontology Development 101의 competency question·iterative design 원칙을 반도체 use case로 적용","textChars":87,"textLines":1,"bbox":[72,650,1030,22]}
+{"kind":"notes","id":"nt/rkbb0i","slide":27,"text":""}
